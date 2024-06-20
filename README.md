@@ -1,11 +1,11 @@
-# XScaleUp Resume - Resume to CSV Converter
+# NCERT_Chapters_Info_Extracter - NCERT_Chapters_Info To CSV Converter
 
-This is a Streamlit application that allows you to convert PDF resumes into a CSV format for easy data analysis and management. The app leverages OpenAI's language model to extract relevant information from the resumes and presents it in a structured manner.
+This is a Streamlit application that allows you to convert PDF NCERT_Chapters_Info into a CSV format for easy data analysis and management. The app leverages OpenAI's language model to extract relevant information from the resumes and presents it in a structured manner.
 
 ## Features
 
-- Upload multiple PDF resumes (up to 10 at a time)
-- Extract key information from resumes, including personal details, work experience, education, skills, and more
+- Upload multiple PDF  (up to 10 at a time)
+- Extract key information from resumes, including chapter_title ,subject, grade_level, chapter_overview, learning_objectives, key_concepts, and more
 - View the extracted resume data in a user-friendly JSON format
 - Download the combined resume data as a CSV file for further analysis or processing
 
