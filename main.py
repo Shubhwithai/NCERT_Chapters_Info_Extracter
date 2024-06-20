@@ -2,8 +2,7 @@ import streamlit as st
 from utils import extract_info, read_pdf, resume_to_dataframe
 from langchain_openai import ChatOpenAI
 import pandas as pd
-import google.generativeai as genai
-import anthropic
+
 
 
 
